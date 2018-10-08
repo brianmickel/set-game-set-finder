@@ -171,24 +171,3 @@ def set_check(inputList):
 
 #  color,    shape,   number,   fill
 #  (g|p|r)  (d|o|s)  (1|2|3)  (e|l|s)
-#mylist = ['gd1e','gd1l','gd1s']
-"""mylist = ['ps3l','pd2e','po2e',
-            'ro3s','rd2s','ps1l'
-            'gd1e','po2s','gs1e'
-            'ro1e','ps3e','rs3s']
-
-mylist = ['gd3e','pd2s','gd3s',
-            'ps2e','go1l','pd1s'
-            'go1e','rs2l','pd3e'
-            'rd2e','ro3e','ro1l']
-
-mylist = ['po3l','rs2l','po2l',
-            'go3s','pd2e','ro3e'
-            'gd3e','ps2e','go3l'
-            'pd3s','go1l','go3e']
-            """
-
-
-
-
-#main(mylist)

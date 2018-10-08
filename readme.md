@@ -20,6 +20,10 @@
 1. 
 
 ## To Do
+* TODO Add testing (turn the comments into tests)
+* TODO clean up comments in code
+* TODO more forgiving import? csv? how should data enter the system
+* look into https://en.wikipedia.org/wiki/Doctest
 * write out the different types of solvers
 * ideate on interaction for CLI
 ** does it display instructions but not options?
